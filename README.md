@@ -1,0 +1,2 @@
+# Cardiovascular-Disease
+Cardiovascular disease (CVD) is a class of diseases that involve the heart or blood vessels. CVD includes coronary artery diseases (CAD) such as angina and myocardial infarction (commonly known as a heart attack). Other CVDs include stroke, heart failure, hypertensive heart disease, rheumatic heart disease, cardiomyopathy, abnormal heart rhythms, congenital heart disease, valvular heart disease, Carditis, aortic aneurysms, peripheral artery disease, thromboembolic disease, and venous thrombosis.
