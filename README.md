@@ -16,7 +16,7 @@ Cardiovascular disease (CVD) is a class of diseases that involve the heart or bl
 
 ## Models 
 
-### First model (10 epocks)
+### First model (10 epochs)
 
 ### information :
 ```
@@ -74,7 +74,7 @@ Epoch 10/10
 weighted avg       0.72      0.72      0.72     17500
 ```
 
-## Third model (300 epocks)
+## Third model (300 epochs)
 
 ### information : 
 ```
@@ -95,7 +95,7 @@ Total params: 3,929
 Trainable params: 3,929
 Non-trainable params: 0
 ```
-### Result : (last five epocks)
+### Result : (last five epochs)
 ```
 175/175 [==============================] - 0s 2ms/step - loss: 0.5424 - categorical_accuracy: 0.7324 - val_loss: 0.5737 - val_categorical_accuracy: 0.7059
 Epoch 295/300
